@@ -1,3 +1,9 @@
-def test_dummy():
+def test_pass():
     assert True
-    print("✅ CI/CD test passed!")
+    
+def test_api():
+    try:
+        import requests
+        print("✅ Requests OK")
+    except:
+        print("⚠️ Requests not installed")

@@ -1,0 +1,24 @@
+RENE MILAS
+Junior Python Developer
+Zagreb, Croatia
+github.com/renemilas13-ops/cryptotracker
+
+PROJECTS:
+1. CryptoTracker - Python + GitHub Actions CI/CD [LIVE]
+   github.com/renemilas13-ops/cryptotracker
+
+2. Farmchain-Web - Web3 frontend
+   farmchain-web.netlify.app
+
+SKILLS:
+Python 3.11, GitHub Actions, Termux, CoinGecko API, Git, pytest
+
+EXPERIENCE:
+Freelance Python Developer - 2025
+• Built CryptoTracker with live CI/CD pipeline
+• Termux mobile development workflow
+
+EDUCATION:
+Self-Taught Developer 2025 | Matura 2024
+
+Rate: €18/hr | Available immediately

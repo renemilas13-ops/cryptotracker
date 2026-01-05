@@ -1,0 +1,33 @@
+RENE MILAS
+Junior Python Developer & DevOps Enthusiast
+Zagreb, Croatia | [your.email@gmail.com] | +385 XX XXX XXX
+github.com/renemilas13-ops | LinkedIn: linkedin.com/in/renemilas13
+
+SUMMARY
+Junior Python Developer with 3+ active GitHub projects and LIVE GitHub Actions CI/CD pipeline. Specialized in mobile development (Termux), crypto API integration, and automated testing. Available for remote freelance (€18-25/hr) or full-time junior positions.
+
+PROJECTS
+CryptoTracker ⭐
+Python portfolio tracker + GitHub Actions CI/CD + pytest
+github.com/renemilas13-ops/cryptotracker [CI/CD RUNNING]
+
+Farmchain-Web
+Web3 frontend deployment
+farmchain-web.netlify.app
+
+TECHNICAL SKILLS
+Python 3.11 • GitHub Actions • Termux • CoinGecko API • Git • pytest
+
+EXPERIENCE
+Freelance Python Developer (Dec 2025)
+• CryptoTracker: Python + live CI/CD pipeline
+• Farmchain-Web: Web3 deployment
+• 3+ GitHub repositories
+
+EDUCATION
+Self-Taught Developer (2025-2026) | Matura Zagreb (2024)
+
+LANGUAGES
+Croatian (Native) | English B2
+
+AVAILABLE NOW - €18/hr

@@ -1,0 +1,7 @@
+{
+  "portfolio": [
+    {"symbol": "BTC", "amount": 0.05, "buy_price": 45000},
+    {"symbol": "ETH", "amount": 1.5, "buy_price": 2500},
+    {"symbol": "SOL", "amount": 10, "buy_price": 150}
+  ]
+}
