@@ -9,3 +9,7 @@ cd cryptotracker && pip install requests && python3 main.py
 - Profit/Loss calc
 ## Tech
 Python 3, JSON, Termux
+
+## CI/CD Status
+[![Tests](https://github.com/renemilas13-ops/cryptotracker/workflows/Tests/badge.svg)](https://github.com/renemilas13-ops/cryptotracker/actions)
+
